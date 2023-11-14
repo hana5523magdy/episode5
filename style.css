@@ -1,0 +1,283 @@
+
+
+
+.head{
+    display:flex;
+    position: fixed;
+    gap:940px;
+    background-color: white;
+    
+}
+h3{
+    text-align: left;
+    position: relative;
+    margin: 20px;
+    letter-spacing: 4px;
+    
+
+}
+
+.table tr{
+    position: absolute;
+    left: 100%;
+    right: 0%;
+    
+    
+
+}
+.table tr th{
+    padding: 20px;
+}
+
+img{
+    height: 100vh;
+    background-size: contain ;
+    margin:70px 0px;
+    position: relative;
+    z-index: 20;
+}
+.title{
+    position: absolute;
+    bottom:0;
+    opacity: 90px;
+    left:0;
+    letter-spacing: 2px;
+    color: gray;
+    margin-left:50px ;
+}
+
+.para{
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    right: 0;
+    line-height: 19px;
+    margin: 300px 180px;
+    padding: 100px 180px;
+    
+    
+}
+
+.a{
+    margin-top: 50px;
+    text-align: center;
+    letter-spacing: 3px;
+
+}
+.b{
+    text-align: center;
+    margin: 40px 5px 0px 0px;
+    
+    
+}
+.c{
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.d{
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+span{
+    color: black;
+    background-color: rgb(200, 196, 196);
+}
+
+
+.photo {
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    left: 0;
+}
+.photo img{
+    width:450px;
+    height:700px;
+    margin: 20px 85px;
+    padding: 20px 85px;
+    opacity: 80%;
+}
+
+.all{
+    position: relative;
+    z-index: 30;
+    display: flex;
+    align-items: center;
+    width: 90%;
+    flex-direction: row;
+    margin:40px;
+    padding: 40px;
+    
+    
+
+}
+
+hr{
+    margin-top: 600px;
+    width: 80%;
+    color: gray;
+    opacity: 50%;
+}
+.all2{
+    position: relative;
+    z-index: 40;
+    display: flex;
+    align-items: center;
+    width: 90%;
+    flex-direction: row;
+    margin:40px;
+    padding: 40px;
+    
+    
+    
+}
+.photo2{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    left:0;
+    margin-left: 850px;
+    opacity: 80%;
+}
+.momo{
+    position: absolute;
+    margin-right: 500px;
+    margin-top: 700px;
+}
+.e{
+    text-align: center;
+    margin-left: 300px;
+    letter-spacing: 2px;
+}
+.f{
+    text-align: left;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+.l{
+    text-align: left;
+    margin-left: 290px;
+    color:gray;
+}
+.u{
+    text-align: left;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+.z{
+    text-align: left;
+    margin-left: 290px;
+    color:gray;
+}
+.x{
+    text-align: left;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+.q{
+    text-align: left;
+    margin-left: 290px;
+    color:gray;
+}
+.p{
+    text-align: left;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+.r{
+    text-align: left;
+    margin-left: 290px;
+    color:gray;
+}
+.w{
+    text-align: left;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+.t{
+    text-align: left;
+    margin-left: 290px;
+    color:gray;
+}
+.hh{
+    margin-top: 800px;
+    width: 80%;
+    color: gray;
+}
+.cc{
+    margin-top: 80px;
+    margin-left: 290px;
+}
+.qq{
+    margin-top: 50px;
+    margin-left: 290px;
+}
+.ww{
+    margin-left: 290px;
+    color: gray;
+}
+.ee{
+    margin-left: 290px;
+}
+
+.bb{
+    width: 60%;
+    margin-left: 290px;
+    padding: 15px;
+    border: none;
+}
+.nn{
+    width: 60%;
+    margin-left: 290px;
+    padding: 15px;
+    margin-top: 30px;
+    border: none;
+}
+.mm{
+    width: 60%;
+    margin-left: 290px;
+    padding: 15px;
+    margin-top: 30px;
+    border: none;
+}
+.vv{
+    width: 60%;
+    margin-left: 290px;
+    padding: 15px;
+    margin-top: 30px;
+    border: none;
+}
+.xx{
+    margin-top: 30px;
+    margin-left: 290px;
+    padding: 5px;
+    border: none;
+    background-color:rgb(200, 196, 196) ;
+}
+.bbb{
+    margin-top: 0;
+    width: 60%;
+}
+.nnn{
+    margin-top: 0;
+    width: 60%;
+}
+.mmm{
+    margin-top: 0;
+    width: 60%;
+}
+.vvv{
+    margin-top: 0;
+    width: 60%;
+}
+.fff{
+    padding: 50px;
+    text-align: center;
+    margin-top: 150px;
+    background-color:rgb(234, 229, 229) ;
+}
+
+
+
+
+
